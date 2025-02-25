@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate at Hefei University of Technology. My research interests include medical robotics and medical image reconstruction.
 
-I am honored to be supervised by Academician Yang Shanlin (Member of the Chinese Academy of Engineering) and Professor [Bo Ouyang](https://faculty.hfut.edu.cn/~VBFzMz/zh_CN/index.htm) at the School of Management, Hefei University of Technology.
+I am honored to be supervised by Academician Shanlin Yang (Member of the Chinese Academy of Engineering) and Professor [Bo Ouyang](https://faculty.hfut.edu.cn/~VBFzMz/zh_CN/index.htm) at the School of Management, Hefei University of Technology.
 
 [Email](mailto:zshuai_9508@163com) / [Github](https://github.com/JishuaiZhang)
 
