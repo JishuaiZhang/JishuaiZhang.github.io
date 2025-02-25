@@ -25,11 +25,9 @@ author:
   avatar           : "../images/shuaizhang.jpg"
   name             : "Shuai Zhang"
   pronouns         : # example: "she/her"
-
-  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hefei University of Technology"
   location         : "Singapore"
-  employer         : "Hefei University of Technology"
+  # employer         : "Hefei University of Technology"
   uri              : # URL
   email            : "zshuai_9508@163.com" 
 
