@@ -16,10 +16,10 @@ I am honored to be supervised by Academician Yang Shanlin (Member of the Chinese
 
 Education
 ======
-Sep. 2014 – Jun. 2018 | Jiangnan University | School of IoT Engineering (Supervised by [Ziyun Wang](https://iot.jiangnan.edu.cn/info/1142/3583.htm))
+Sep. 2014 – Jun. 2018, Jiangnan University, School of IoT Engineering (Supervised by [Ziyun Wang](https://iot.jiangnan.edu.cn/info/1142/3583.htm))
 
-Sep. 2018 – Jun. 2021 | Jiangnan University | School of IoT Engineering (Supervised by [Ziyun Wang](https://iot.jiangnan.edu.cn/info/1142/3583.htm))
+Sep. 2018 – Jun. 2021, Jiangnan University, School of IoT Engineering (Supervised by [Ziyun Wang](https://iot.jiangnan.edu.cn/info/1142/3583.htm))
 
-Sep. 2021 – Present | Hefei University of Technology | School of Management
+Sep. 2021 – Present, Hefei University of Technology, School of Management
 
-Jan. 2025 – Present | National University of Singapore | College of Design and Engineering
+Jan. 2025 – Present, National University of Singapore, College of Design and Engineering
